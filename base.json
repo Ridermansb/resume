@@ -1,0 +1,161 @@
+{
+  "name": "Riderman de Sousa Barbosa",
+  "meta": {
+    "format": "FRESH@0.1.0",
+    "version": "0.1.0"
+  },
+  "info": {
+    "label": "",
+    "characterClass": "",
+    "brief": "Just another developer who is passionate with code.. love to develop, both at home and at work. Develop with Asp.net MVC, WebApi/OData, Android, Rust, Cordova .. and most TDD/BDD. I like to study anything about development and technology.",
+    "image": "https://pbs.twimg.com/profile_images/2272604611/image_400x400.jpg"
+  },
+  "contact": {
+    "website": "http://ridermansb.me/",
+    "phone": "+55 (31) 98681-1986",
+    "email": "ridermansb@gmail.com",
+    "other": ["http://blog.ridermansb.me/", "http://stackoverflow.com/users/491181/ridermansb"]
+  },
+  "location": {
+    "address": "Rua João Gualberto Filho, 453 Apto 402",
+    "city": "Belo Horizonte",
+    "region": "Minas Gerais",
+    "code": "31030410",
+    "country": "BR"
+  },
+  "social": [
+        {
+          "label": "Twitter",
+          "network": "Twitter",
+          "user": "ridermansb",
+          "url": "https://twitter.com/ridermansb"
+      },
+      {
+          "label": "Github",
+          "network": "Github",
+          "user": "ridermansb",
+          "url": "https://github.com/ridermansb"
+      },
+        {
+          "label": "Linkedin",
+          "network": "Linkedin",
+          "user": "ridermansb",
+          "url": "https://www.linkedin.com/in/ridermansb"
+        }
+    ],
+  "employment": {  },
+  "education": {
+    "summary": "",
+    "level": "",
+    "degree": "",
+    "history": [
+      {
+        "institution": "",
+        "url": "",
+        "start": "",
+        "end": "",
+        "grade": "",
+        "summary": "",
+        "curriculum": []
+      }
+    ]
+  },
+  "service": {
+    "summary": "",
+    "history": [
+      {
+        "flavor": "",
+        "position": "",
+        "organization": "",
+        "url": "",
+        "start": "",
+        "end": "",
+        "summary": "",
+        "highlights": []
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "",
+        "level": "",
+        "skills": []
+      }
+    ],
+    "list": []
+  },
+  "samples": [
+    {
+      "title": "",
+      "summary": "",
+      "url": "",
+      "date": ""
+    }
+  ],
+  "writing": [
+    {
+      "title": "",
+      "flavor": "",
+      "date": "",
+      "publisher": {
+        "name": "",
+        "url": ""
+      },
+      "url": ""
+    }
+  ],
+  "reading": [
+    {
+      "title": "",
+      "flavor": "",
+      "url": "",
+      "author": ""
+    }
+  ],
+  "recognition": [
+    {
+      "flavor": "",
+      "from": "",
+      "title": "",
+      "event": "",
+      "date": "",
+      "summary": ""
+    }
+  ],
+  "references": [
+    {
+      "name": "",
+      "flavor": "",
+      "private": true,
+      "contact": [
+        {
+          "label": "",
+          "flavor": "",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "",
+      "flavor": "",
+      "quote": ""
+    }
+  ],
+  "languages": [
+    {
+      "language": "",
+      "level": "",
+      "years": 0
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "summary": "",
+      "keywords": []
+    }
+  ]
+}

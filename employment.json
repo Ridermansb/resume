@@ -1,0 +1,17 @@
+{
+    "employment": {
+      "summary": "",
+      "history": [
+        {
+          "employer": "Take.net",
+          "url": "http://take.net/",
+          "position": "Programmer",
+          "summary": "Development apis for SMS projects. Web Dashboard for sales. Mobile app in Android (native)",
+          "start": "2014-08-14",
+          "end": "",
+          "keywords": ["Azure", "Docker", "AngularJS", "Asp.net WebApi", "Asp.net MVC"],
+          "highlights": []
+        }
+      ]
+    }
+}
