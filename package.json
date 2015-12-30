@@ -4,7 +4,8 @@
   "description": "My personal resume",
   "main": "resume.json",
   "scripts": {
-    "build": "hackmyresume BUILD base.json employment.json -o build/resume.json",
+    "build": "hackmyresume BUILD base.json TO build/resume.json",
+    "test": "hackmyresume VALIDATE build/resume.json && cat .\\build\\resume.json | jsonvalidate -s resume-schema.json",
     "publish": "resume publish .\\build\\resume.json"
   },
   "author": "ridermansb",

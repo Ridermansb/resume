@@ -12,10 +12,11 @@ before_install:
 before_script:
   - npm prune
   - npm install hackmyresume -g
+  - npm install jsonvalidate -g
   - npm install resume-cli -g
 script:
   - npm run build
-  - hackmyresume VALIDATE build/resume.json
+  - npm run test
 after_success:
   - npm run publish
 branches:
