@@ -1,175 +1,263 @@
 {
-  "name": "Riderman de Sousa Barbosa",
-  "meta": {
-    "format": "FRESH@0.1.0",
-    "version": "0.1.0"
-  },
-  "info": {
-    "label": "",
-    "characterClass": "",
-    "brief": "Just another developer who is passionate with code.. love to develop, both at home and at work. Develop with Asp.net MVC, WebApi/OData, Android, Rust, Cordova .. and most TDD/BDD. I like to study anything about development and technology.",
-    "image": "https://pbs.twimg.com/profile_images/2272604611/image_400x400.jpg"
-  },
-  "contact": {
-    "website": "http://ridermansb.me/",
-    "phone": "+55 (31) 98681-1986",
-    "email": "ridermansb@gmail.com",
-    "other": ["http://blog.ridermansb.me/", "http://stackoverflow.com/users/491181/ridermansb"]
-  },
-  "location": {
-    "address": "Rua João Gualberto Filho, 453 Apto 402",
-    "city": "Belo Horizonte",
-    "region": "Minas Gerais",
-    "code": "31030410",
-    "country": "BR"
-  },
-  "social": [
+    "name": "Riderman de Sousa Barbosa",
+    "meta": {
+        "format": "FRESH@0.1.0",
+        "version": "0.1.0"
+    },
+    "info": {
+        "label": "",
+        "characterClass": "",
+        "brief": "I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, I've worked with windows forms, web, apis and currently mobile Android (native). Really like open source (despite having contributed with a few projects), read and discuss technology.",
+        "image": "https://pbs.twimg.com/profile_images/2272604611/image_400x400.jpg"
+    },
+    "contact": {
+        "website": "http://ridermansb.me/",
+        "phone": "+55 (31) 98681-1986",
+        "email": "ridermansb@gmail.com",
+        "other": ["http://blog.ridermansb.me/", "http://stackoverflow.com/users/491181/ridermansb"]
+    },
+    "location": {
+        "address": "Rua João Gualberto Filho, 453 Apto 402",
+        "city": "Belo Horizonte",
+        "region": "Minas Gerais",
+        "code": "31030410",
+        "country": "BR"
+    },
+    "social": [
         {
-          "label": "Twitter",
-          "network": "Twitter",
-          "user": "ridermansb",
-          "url": "https://twitter.com/ridermansb"
-      },
-      {
-          "label": "Github",
-          "network": "Github",
-          "user": "ridermansb",
-          "url": "https://github.com/ridermansb"
-      },
+            "label": "Twitter",
+            "network": "Twitter",
+            "user": "ridermansb",
+            "url": "https://twitter.com/ridermansb"
+        },
         {
-          "label": "Linkedin",
-          "network": "Linkedin",
-          "user": "ridermansb",
-          "url": "https://www.linkedin.com/in/ridermansb"
+            "label": "Github",
+            "network": "Github",
+            "user": "ridermansb",
+            "url": "https://github.com/ridermansb"
+        },
+        {
+            "label": "Linkedin",
+            "network": "Linkedin",
+            "user": "ridermansb",
+            "url": "https://www.linkedin.com/in/ridermansb"
         }
     ],
-  "employment": {
-      "summary": "",
-      "history": [
-        {
-          "employer": "Take.net",
-          "url": "http://take.net/",
-          "position": "Programmer",
-          "summary": "Development apis for SMS projects. Web Dashboard for sales. Mobile app in Android (native)",
-          "start": "2014-08-14",
-          "end": "",
-          "keywords": ["Azure", "Docker", "AngularJS", "Asp.net WebApi", "Asp.net MVC"],
-          "highlights": []
-        }
-      ]
-  },
-  "education": {
-    "summary": "",
-    "level": "",
-    "degree": "",
-    "history": [
-      {
-        "institution": "",
-        "url": "",
-        "start": "",
-        "end": "",
-        "grade": "",
+    "employment": {
         "summary": "",
-        "curriculum": []
-      }
-    ]
-  },
-  "service": {
-    "summary": "",
-    "history": [
-      {
-        "flavor": "",
-        "position": "",
-        "organization": "",
-        "url": "",
-        "start": "",
-        "end": "",
-        "summary": "",
-        "highlights": []
-      }
-    ]
-  },
-  "skills": {
-    "sets": [
-      {
-        "name": "",
+        "history": [
+            {
+                "employer": "Take.net",
+                "url": "http://take.net/",
+                "position": "Programmer",
+                "summary": "Development apis for SMS projects. Web Dashboard for sales. Mobile app in Android (native)",
+                "start": "2014-08-14",
+                "keywords": ["Azure", "Docker", "AngularJS", "Asp.net WebApi", "Asp.net MVC"],
+                "highlights": []
+            },
+            {
+                "employer": "Bind Solution",
+                "url": "http://bindsolution.com.br/",
+                "position": "Freela: Web Developer / DevOps",
+                "summary": "Responsible for IT including (infra, servers, and development). Work on developing web projects using Asp.net MVC, TDD, Google Apps deployment. some of the projects analyzed by the development community.",
+                "start": "2011-06-01",
+                "end": "2014-07-01",
+                "keywords": ["Azure", "Asp.net MVC", "KnockoutJS", "Asp.net WebApi"],
+                "highlights": []
+            },
+            {
+                "employer": "Most",
+                "position": "Leader Tech",
+                "summary": "Responsible for supporting developers and assist in best practices and development methodologies. Acting on a Web + Mobile project developed in Asp.net (web forms) and Windows Mobile 6.5.",
+                "start": "2010-11-01",
+                "end": "2011-08-01",
+                "keywords": ["Windows Mobile 6.5", "Asp.net MVC", "Javascript", "C#"],
+                "highlights": []
+            },
+            {
+                "employer": "CPM Braxis",
+                "url": "https://www.br.capgemini.com/",
+                "position": "Mobile Developer",
+                "summary": "Work in client (Prosegur) where I worked in a mobile system (Windows Mobile 6.5) responsible for communication between the central and the cars-strong. To securely transmit information between the central and the strong car, we use SHA encryption and the algorithm Rijndael (for file encryption) communicating via Web Service.",
+                "start": "2010-04-01",
+                "end": "2010-10-01",
+                "keywords": ["Windows Mobile 6.5", "SqlServerCE", "Security"],
+                "highlights": []
+            },
+            {
+                "employer": "Paiva Piovesan",
+                "url": "http://paiva.com.br/",
+                "position": "Developer",
+                "summary": "Development and maintenance of the system used to control projects and tasks. SQL Server database administration, creation of jobs and procedures.",
+                "start": "2009-09-01",
+                "end": "2010-04-01",
+                "keywords": ["Sql Server 2005", "Windows Forms"],
+                "highlights": []
+            },
+            {
+                "employer": "AeC Consulting",
+                "url": "http://aec.com.br",
+                "position": "Developer",
+                "summary": "Development of web projects or desktop to help customer service team and managers. Systems such as administration of the snacks of the attendants, transport calculation and even reports for managers.",
+                "start": "2009-05-01",
+                "end": "2010-09-01",
+                "keywords": ["Sql Server 2005", "Windows Forms", "Asp.net"],
+                "highlights": []
+            },
+            {
+                "employer": "Codeme Engenharia",
+                "url": "http://www.codeme.com.br/",
+                "position": "Developer",
+                "summary": "Development and maintenance on a desktop system used to create and manage engineering projects.",
+                "start": "2009-02-01",
+                "end": "2009-05-01",
+                "keywords": ["Windows Forms"],
+                "highlights": []
+            },
+            {
+                "employer": "Paiva Piovesan",
+                "url": "http://paiva.com.br/",
+                "position": "Developer",
+                "summary": "Development and maintenance of a desktop system used internally (project style) to control projects and tasks in the .NET platform. Implementation and administration of SQL Server database.",
+                "start": "2006-10-01",
+                "end": "2008-12-01",
+                "keywords": ["Sql Server 2005", "Windows Forms"],
+                "highlights": []
+            }
+        ]
+    },
+    "education": {
+        "summary": "Computer Technician",
         "level": "",
-        "skills": []
-      }
-    ],
-    "list": []
-  },
-  "samples": [
-    {
-      "title": "",
-      "summary": "",
-      "url": "",
-      "date": ""
-    }
-  ],
-  "writing": [
-    {
-      "title": "",
-      "flavor": "",
-      "date": "",
-      "publisher": {
-        "name": "",
-        "url": ""
-      },
-      "url": ""
-    }
-  ],
-  "reading": [
-    {
-      "title": "",
-      "flavor": "",
-      "url": "",
-      "author": ""
-    }
-  ],
-  "recognition": [
-    {
-      "flavor": "",
-      "from": "",
-      "title": "",
-      "event": "",
-      "date": "",
-      "summary": ""
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "flavor": "",
-      "private": true,
-      "contact": [
+        "degree": "",
+        "history": [
+            {
+                "institution": "Cotemig",
+                "url": "http://www.cotemig.com.br/",
+                "start": "2003-01-01",
+                "end": "2005-12-01",
+                "grade": "",
+                "summary": "Computer Technician",
+                "curriculum": []
+            }
+        ]
+    },
+    "service": {
+        "summary": "",
+        "history": [
+            {
+                "flavor": "",
+                "position": "",
+                "organization": "",
+                "url": "",
+                "start": "",
+                "end": "",
+                "summary": "",
+                "highlights": []
+            }
+        ]
+    },
+    "skills": {
+        "sets": [
+            {
+                "name": "Mobile Development",
+                "level": "3",
+                "skills": ["cordova", "ionic", "angular"]
+            },{
+                "name": "Web Development",
+                "level": "6",
+                "skills": ["Javascript", "React.js", "Redux", "angular"]
+            },{
+                "name": "Android Development",
+                "level": "1",
+                "skills": ["Java", "Native"]
+            },{
+                "name": "Node.js",
+                "level": "3",
+                "skills": ["express"]
+            }
+        ],
+        "list": ["cordova", "reactjs", "redux", "angular", "ionic"]
+    },
+    "samples": [
         {
-          "label": "",
-          "flavor": "",
-          "value": ""
+            "title": "",
+            "summary": "",
+            "url": "",
+            "date": ""
         }
-      ]
-    }
-  ],
-  "testimonials": [
-    {
-      "name": "",
-      "flavor": "",
-      "quote": ""
-    }
-  ],
-  "languages": [
-    {
-      "language": "",
-      "level": "",
-      "years": 0
-    }
-  ],
-  "interests": [
-    {
-      "name": "",
-      "summary": "",
-      "keywords": []
-    }
-  ]
+    ],
+    "writing": [
+        {
+            "title": "",
+            "flavor": "",
+            "date": "",
+            "publisher": {
+                "name": "",
+                "url": ""
+            },
+            "url": ""
+        }
+    ],
+    "reading": [
+        {
+            "title": "",
+            "flavor": "",
+            "url": "",
+            "author": ""
+        }
+    ],
+    "recognition": [
+        {
+            "flavor": "",
+            "from": "",
+            "title": "",
+            "event": "",
+            "date": "",
+            "summary": ""
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "flavor": "",
+            "private": true,
+            "contact": [
+                {
+                    "label": "",
+                    "flavor": "",
+                    "value": ""
+                }
+            ]
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "",
+            "flavor": "",
+            "quote": ""
+        }
+    ],
+    "languages": [
+        {
+            "language": "Portuguese",
+            "level": "Native",
+            "years": 29
+        },{
+            "language": "English",
+            "level": "Technical",
+            "years": 5
+        }
+    ],
+    "interests": [
+        {
+            "name": "Mobile Development",
+            "summary": "Develop a mobile app using Cordova/web.",
+            "keywords": []
+        },{
+            "name": "Web Development",
+            "summary": "Develop web projects",
+            "keywords": []
+        }
+    ]
 }

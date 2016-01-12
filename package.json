@@ -5,9 +5,19 @@
   "main": "resume.json",
   "scripts": {
     "build": "hackmyresume BUILD base.json TO build/resume.json",
-    "test": "hackmyresume VALIDATE build/resume.json && cat .\\build\\resume.json | jsonvalidate -s resume-schema.json",
-    "publish": "resume publish .\\build\\resume.json"
+    "test": "cd build && hackmyresume VALIDATE resume.json && cat resume.json | jsonvalidate -s ../resume-schema.json",
+    "publish": "cd build && hackmyresume CONVERT resume.json TO resume.json && resume publish"
   },
   "author": "ridermansb",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "jsonlint": "^1.6.2"
+  },
+  "dependencies": {
+    "jsonresume-theme-classy": "^1.0.9",
+    "jsonresume-theme-dark-classy": "^1.0.1",
+    "jsonresume-theme-dark-classy-responsive": "^1.0.2",
+    "jsonresume-theme-elegant-tautologistics": "^0.1.12",
+    "jsonresume-theme-sceptile": "^1.0.5"
+  }
 }
